@@ -18,7 +18,7 @@ jobs:
           # Options
           user: liweinan
           template: classic
-          base: header, activity, community, metadata
+          base: header, activity, community
           config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: detailed
