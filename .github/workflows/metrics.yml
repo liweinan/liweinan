@@ -20,6 +20,7 @@ jobs:
           template: classic
           base: header, activity, community
           config_timezone: Asia/Shanghai
+          plugin_notable: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
