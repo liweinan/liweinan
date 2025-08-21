@@ -1,3 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api?username=liweinan&theme=algolia&show_icons=true)](https://github.com/lliweinan)	
+![Top Langs](https://github-readme-stats.vercel.app/api?username=liweinan&theme=algolia&show_icons=true)]
 
-![Wei Nan Li's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=liweinan&hide=html,scss,stylus,blade,jupyter%20notebook,css&theme=algolia&show_icons=true)](https://github.com/liweinan)
+![Wei Nan Li's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=liweinan&hide=html,scss,stylus,blade,jupyter%20notebook,css&theme=algolia&show_icons=true)]
